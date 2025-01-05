@@ -2,7 +2,6 @@
 """
 Created on Sun Oct 27 22:05:13 2024
 
-CPS843 hand tracking test
 """
 
 import cv2
